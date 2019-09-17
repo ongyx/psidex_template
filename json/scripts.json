@@ -1,0 +1,18 @@
+{
+    {
+        "meta_version": "1.0.1",
+        "name": "helloworld",
+        "type": "script",
+        "branch": "stable",
+        "author": "1337boi",
+        "email": "1337boi@gmail.com",
+        "website": "https://github.com/1337boi",
+        "description": "some placeholder text",
+        "releases": [
+            {
+                "version": "1.0.0"
+                "url": "https://raw.githubusercontent.com/sn3ksoftware/psidex_template/master/packages/helloworld.zip"
+            }
+        ]
+    }
+}
