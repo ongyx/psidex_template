@@ -1,0 +1,12 @@
+{
+    "meta_version": "1.0.0",
+    "name": "1337boi's server",
+    "website": "https://github.com/1337boi/placeholder-index",
+    "scripts": {
+        "helloworld": {
+            "meta_url": "https://raw.githubusercontent.com/sn3ksoftware/psidex_template/master/json/scripts.json",
+            "type": "script",
+            "branch": "stable"
+        }
+    }
+}
