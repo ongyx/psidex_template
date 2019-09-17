@@ -4,7 +4,7 @@
     "website": "https://github.com/1337boi/placeholder-index",
     "scripts": {
         "helloworld": {
-            "meta_url": "https://raw.githubusercontent.com/sn3ksoftware/psidex_template/master/json/scripts.json",
+            "meta_url": "https://raw.githubusercontent.com/sn3ksoftware/psidex_template/master/json/scripts.json#helloworld",
             "type": "script",
             "branch": "stable"
         }
